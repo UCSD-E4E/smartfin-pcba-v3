@@ -108,23 +108,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PDXRPHQO
 
 [Document4]
-DocumentPath=Smartfin Main PCBA Motion.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JOAECEYM
-
-[Document5]
 DocumentPath=Smartfin Main PCBA GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,6 +123,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIEBJLUI
+
+[Document5]
+DocumentPath=Smartfin Main PCBA Motion.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JOAECEYM
 
 [Document6]
 DocumentPath=Smartfin Main PCBA Control.SchDoc
