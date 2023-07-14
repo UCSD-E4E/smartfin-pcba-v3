@@ -159,23 +159,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QVFHRYRX
 
 [Document7]
-DocumentPath=Smartfin Main PCBA USB.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PGQYWOJL
-
-[Document8]
 DocumentPath=Smartfin Main PCBA Temp Sensor Connection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,6 +174,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EOHRJLDK
+
+[Document8]
+DocumentPath=Smartfin Main PCBA USB.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PGQYWOJL
 
 [Document9]
 DocumentPath=Smartfin Main PCBA Wet Dry Sensor.SchDoc
