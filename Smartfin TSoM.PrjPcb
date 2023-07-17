@@ -227,40 +227,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GOWMRKNR
 
 [Document11]
-DocumentPath=Smartfin Main PCBA_ASYDWG.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
-DocumentPath=Smartfin Main PCBA_FABDWG.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
 DocumentPath=Smartfin Main PCBA - 2G3G.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=Smartfin Main PCBA - LTE.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=..\..\..\..\e4e\Downloads\Imported TRACKER SOM EVAL BOARD v1.0.PrjPcb\TRACKER SOM EVAL BOARD v1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
