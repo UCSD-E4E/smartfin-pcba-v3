@@ -46,7 +46,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Smartfin Main PCBA - LTE
+CurrentVariant=Smartfin Main PCBA - 2G/3G
 
 [Preferences]
 PrefsVaultGUID=
@@ -276,7 +276,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KUZIVCKJ
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=C246BEA5-136F-4B9E-98D9-E8383F1DFA4E
