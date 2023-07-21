@@ -92,23 +92,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PDXRPHQO
 
 [Document3]
-DocumentPath=Smartfin Main PCBA_Block Diagram.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZVINXHYM
-
-[Document4]
 DocumentPath=Smartfin Main PCBA Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVFHRYRX
 
-[Document5]
+[Document4]
 DocumentPath=Smartfin Main PCBA Motion.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JOAECEYM
 
-[Document6]
+[Document5]
 DocumentPath=Smartfin Main PCBA Temp Sensor Connection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EOHRJLDK
 
-[Document7]
+[Document6]
 DocumentPath=Smartfin Main PCBA USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PGQYWOJL
 
-[Document8]
+[Document7]
 DocumentPath=Smartfin Main PCBA Wet Dry Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,6 +175,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFTPXLYJ
+
+[Document8]
+DocumentPath=Smartfin Main PCBA_Block Diagram.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZVINXHYM
 
 [Document9]
 DocumentPath=Smartfin Main PCBA.PcbDoc
