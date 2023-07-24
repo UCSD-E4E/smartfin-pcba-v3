@@ -386,26 +386,30 @@ Name=SCH_DOCNUM
 Value=644-001-033
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Design Rule Check - Smartfin Main PCBA.html
+DocumentPath=Project Outputs for Smartfin TSoM\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.EXTREP
+DocumentPath=Project Outputs for Smartfin Main PCBA\Design Rule Check - Smartfin Main PCBA.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP1
+DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP2
+DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.REP
+DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument6]
+DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.REP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.RUL
 DItemRevisionGUID=
 
