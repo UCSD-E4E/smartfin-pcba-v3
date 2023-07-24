@@ -1,8 +1,21 @@
 [OutputJobFile]
 Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Smartfin TSoM.OutJob
 Description=
 TargetOutputMedium=PDF
 VariantName=[No Variations]
@@ -107,7 +120,7 @@ Configuration3_Name6=VisibleOrder
 Configuration3_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Public\Documents\Altium\Smartfin TSoM\.PDF
+OutputFilePath2=C:\Users\Public\Documents\Altium\Smartfin TSoM\Smartfin TSoM.pdf
 ReleaseManaged2=0
 OutputBasePath2=C:\Users\Public\Documents\Altium\Smartfin TSoM\
 OutputPathMedia2=
@@ -136,7 +149,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=
+OutputBasePath3=Project Outputs for Smartfin TSoM
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -149,7 +162,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for Smartfin TSoM
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -186,7 +199,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Public\Documents\Altium\Smartfin TSoM\.PDF
+RelativeOutputPath2=C:\Users\Public\Documents\Altium\Smartfin TSoM\Smartfin TSoM.pdf
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
