@@ -46,7 +46,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Smartfin Main PCBA - 2G/3G
+CurrentVariant=Variant of Smartfin TSoM
 
 [Preferences]
 PrefsVaultGUID=
@@ -301,16 +301,16 @@ Description=Smartfin Main PCBA - 2G/3G
 AllowFabrication=0
 ParameterCount=5
 VariationCount=10
-Variation1=Designator=R34|UniqueId=\XWFOLWFS\CRRPQHOI\TTDGSKQB|Kind=1|AlternatePart= 
-Variation2=Designator=R37|UniqueId=\XWFOLWFS\CRRPQHOI\UKPQWSSO|Kind=1|AlternatePart= 
-Variation3=Designator=R39|UniqueId=\XWFOLWFS\CRRPQHOI\MRFJPVEG|Kind=1|AlternatePart= 
-Variation4=Designator=U8|UniqueId=\XWFOLWFS\CRRPQHOI\JRBAUNPK|Kind=1|AlternatePart= 
-Variation5=Designator=R13|UniqueId=\XWFOLWFS\CRRPQHOI\NYZULQTR|Kind=1|AlternatePart= 
-Variation6=Designator=R36|UniqueId=\XWFOLWFS\CRRPQHOI\CPNJFELC|Kind=1|AlternatePart= 
-Variation7=Designator=R32|UniqueId=\XWFOLWFS\CRRPQHOI\WBGBTAGG|Kind=1|AlternatePart= 
-Variation8=Designator=R35|UniqueId=\XWFOLWFS\CRRPQHOI\SUSHIVKU|Kind=1|AlternatePart= 
-Variation9=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\XSLUBKXF|Kind=1|AlternatePart= 
-Variation10=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\HSUTTTBD|Kind=1|AlternatePart= 
+Variation1=Designator=R34|UniqueId=\XWFOLWFS\WDAGPUXV\MUGNQZGS|Kind=1|AlternatePart= 
+Variation2=Designator=R37|UniqueId=\XWFOLWFS\WDAGPUXV\SSHADQDH|Kind=1|AlternatePart= 
+Variation3=Designator=R39|UniqueId=\XWFOLWFS\WDAGPUXV\UPOLFTID|Kind=1|AlternatePart= 
+Variation4=Designator=R13|UniqueId=\XWFOLWFS\CRRPQHOI\OSAJKHXB|Kind=1|AlternatePart= 
+Variation5=Designator=R36|UniqueId=\XWFOLWFS\WDAGPUXV\SVXUCVSQ|Kind=1|AlternatePart= 
+Variation6=Designator=R32|UniqueId=\XWFOLWFS\OKYBHWKJ\XPJZMTFQ|Kind=1|AlternatePart= 
+Variation7=Designator=R35|UniqueId=\XWFOLWFS\WDAGPUXV\WFBGKAIV|Kind=1|AlternatePart= 
+Variation8=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=1|AlternatePart= 
+Variation9=Designator=R46|UniqueId=\XWFOLWFS\CRRPQHOI\KXAKPRDT|Kind=1|AlternatePart= 
+Variation10=Designator=D5|UniqueId=\XWFOLWFS\CRRPQHOI\KIEGRYHD|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter2_1]
@@ -338,49 +338,18 @@ UniqueID=D5673E44-466E-48E5-84B6-DD3D99688B9A
 Description=Smartfin Main PCBA - LTE
 AllowFabrication=0
 ParameterCount=5
-VariationCount=11
-Variation1=Designator=R34|UniqueId=\XWFOLWFS\CRRPQHOI\TTDGSKQB|Kind=1|AlternatePart= 
-Variation2=Designator=R37|UniqueId=\XWFOLWFS\CRRPQHOI\UKPQWSSO|Kind=1|AlternatePart= 
-Variation3=Designator=R39|UniqueId=\XWFOLWFS\CRRPQHOI\MRFJPVEG|Kind=1|AlternatePart= 
-Variation4=Designator=U8|UniqueId=\XWFOLWFS\CRRPQHOI\JRBAUNPK|Kind=1|AlternatePart= 
-Variation5=Designator=R13|UniqueId=\XWFOLWFS\CRRPQHOI\NYZULQTR|Kind=1|AlternatePart= 
-Variation6=Designator=R36|UniqueId=\XWFOLWFS\CRRPQHOI\CPNJFELC|Kind=1|AlternatePart= 
-Variation7=Designator=R32|UniqueId=\XWFOLWFS\CRRPQHOI\WBGBTAGG|Kind=1|AlternatePart= 
-Variation8=Designator=R35|UniqueId=\XWFOLWFS\CRRPQHOI\SUSHIVKU|Kind=1|AlternatePart= 
-Variation9=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\XSLUBKXF|Kind=1|AlternatePart= 
-Variation10=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\HSUTTTBD|Kind=1|AlternatePart= 
-Variation11=Designator=U1|UniqueId=\XWFOLWFS\CRRPQHOI\EDVHYGOB|Kind=2|AlternatePart=Particle E-Series LTE CAT M1|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Syncroness Vault|AltLibLink_SymbolReference=CMP-23692-A.9|AltLibLink_DesignItemID=CMP-23692-A.9|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Syncroness Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=DF6290C1-A6F2-4676-B023-DC522903B088|AltLibLink_ItemGUID=58490942-11ad-491c-817c-87dd542658c3|AltLibLink_RevisionGUID=cd714837-357b-47d3-968a-8fbbae04aaf4|AltLibLink_Footprint=Particle E-Series-Footprint-1|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=Particle E-Series LTE CAT M1
-ParamDesignator1=U1
-ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator2=U1
-ParamVariation3=ParameterName=Datasheet|VariantValue=https://docs.particle.io/datasheets/cellular/e-series-datasheet/
-ParamDesignator3=U1
-ParamVariation4=ParameterName=Description|VariantValue=LTE CAT M1, U-blox SARA-R410M-02B Modem
-ParamDesignator4=U1
-ParamVariation5=ParameterName=Footprint|VariantValue=Particle E-Series-Footprint-1
-ParamDesignator5=U1
-ParamVariation6=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator6=U1
-ParamVariation7=ParameterName=Library Reference|VariantValue=CMP-23692-A.9
-ParamDesignator7=U1
-ParamVariation8=ParameterName=Manufacturer|VariantValue=Particle
-ParamDesignator8=U1
-ParamVariation9=ParameterName=Manufacturer Part Number|VariantValue=E402
-ParamDesignator9=U1
-ParamVariation10=ParameterName=PCB3D|VariantValue= 
-ParamDesignator10=U1
-ParamVariation11=ParameterName=Pin Info|VariantValue= 
-ParamDesignator11=U1
-ParamVariation12=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator12=U1
-ParamVariation13=ParameterName=Simulation|VariantValue= 
-ParamDesignator13=U1
-ParamVariation14=ParameterName=Supplier|VariantValue=Particle
-ParamDesignator14=U1
-ParamVariation15=ParameterName=Supplier Part Number|VariantValue=E402MOD1
-ParamDesignator15=U1
-ParamVariationCount=15
+VariationCount=10
+Variation1=Designator=R34|UniqueId=\XWFOLWFS\WDAGPUXV\MUGNQZGS|Kind=1|AlternatePart= 
+Variation2=Designator=R37|UniqueId=\XWFOLWFS\WDAGPUXV\SSHADQDH|Kind=1|AlternatePart= 
+Variation3=Designator=R39|UniqueId=\XWFOLWFS\WDAGPUXV\UPOLFTID|Kind=1|AlternatePart= 
+Variation4=Designator=R13|UniqueId=\XWFOLWFS\CRRPQHOI\OSAJKHXB|Kind=1|AlternatePart= 
+Variation5=Designator=R36|UniqueId=\XWFOLWFS\WDAGPUXV\SVXUCVSQ|Kind=1|AlternatePart= 
+Variation6=Designator=R32|UniqueId=\XWFOLWFS\OKYBHWKJ\XPJZMTFQ|Kind=1|AlternatePart= 
+Variation7=Designator=R35|UniqueId=\XWFOLWFS\WDAGPUXV\WFBGKAIV|Kind=1|AlternatePart= 
+Variation8=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=1|AlternatePart= 
+Variation9=Designator=R46|UniqueId=\XWFOLWFS\CRRPQHOI\KXAKPRDT|Kind=1|AlternatePart= 
+Variation10=Designator=D5|UniqueId=\XWFOLWFS\CRRPQHOI\KIEGRYHD|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Parameter3_1]
 Name=ASY_BOM_FILE_NAME
@@ -401,6 +370,17 @@ Value=644-001-031
 [Parameter3_5]
 Name=SCH_DOCNUM
 Value=644-001-033
+
+[ProjectVariant3]
+UniqueID=A7E14AEE-B042-4BB6-BA65-588D78B5A141
+Description=Variant of Smartfin TSoM
+AllowFabrication=0
+ParameterCount=0
+VariationCount=3
+Variation1=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=1|AlternatePart= 
+Variation2=Designator=R46|UniqueId=\XWFOLWFS\CRRPQHOI\KXAKPRDT|Kind=1|AlternatePart= 
+Variation3=Designator=D5|UniqueId=\XWFOLWFS\CRRPQHOI\KIEGRYHD|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Smartfin TSoM\Design Rule Check - PCB1.html
