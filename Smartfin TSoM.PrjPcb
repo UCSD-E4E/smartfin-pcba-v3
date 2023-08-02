@@ -46,6 +46,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Variant of Smartfin TSoM
 
 [Preferences]
 PrefsVaultGUID=
@@ -299,7 +300,7 @@ UniqueID=C246BEA5-136F-4B9E-98D9-E8383F1DFA4E
 Description=Smartfin Main PCBA - 2G/3G
 AllowFabrication=0
 ParameterCount=5
-VariationCount=9
+VariationCount=10
 Variation1=Designator=R34|UniqueId=\XWFOLWFS\WDAGPUXV\MUGNQZGS|Kind=1|AlternatePart= 
 Variation2=Designator=R37|UniqueId=\XWFOLWFS\WDAGPUXV\SSHADQDH|Kind=1|AlternatePart= 
 Variation3=Designator=R39|UniqueId=\XWFOLWFS\WDAGPUXV\UPOLFTID|Kind=1|AlternatePart= 
@@ -307,8 +308,9 @@ Variation4=Designator=R13|UniqueId=\XWFOLWFS\CRRPQHOI\OSAJKHXB|Kind=1|AlternateP
 Variation5=Designator=R36|UniqueId=\XWFOLWFS\WDAGPUXV\SVXUCVSQ|Kind=1|AlternatePart= 
 Variation6=Designator=R32|UniqueId=\XWFOLWFS\OKYBHWKJ\XPJZMTFQ|Kind=1|AlternatePart= 
 Variation7=Designator=R35|UniqueId=\XWFOLWFS\WDAGPUXV\WFBGKAIV|Kind=1|AlternatePart= 
-Variation8=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\LMBRIAGB|Kind=1|AlternatePart= 
-Variation9=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=1|AlternatePart= 
+Variation8=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=1|AlternatePart= 
+Variation9=Designator=R46|UniqueId=\XWFOLWFS\CRRPQHOI\KXAKPRDT|Kind=1|AlternatePart= 
+Variation10=Designator=D5|UniqueId=\XWFOLWFS\CRRPQHOI\KIEGRYHD|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter2_1]
@@ -336,7 +338,7 @@ UniqueID=D5673E44-466E-48E5-84B6-DD3D99688B9A
 Description=Smartfin Main PCBA - LTE
 AllowFabrication=0
 ParameterCount=5
-VariationCount=9
+VariationCount=10
 Variation1=Designator=R34|UniqueId=\XWFOLWFS\WDAGPUXV\MUGNQZGS|Kind=1|AlternatePart= 
 Variation2=Designator=R37|UniqueId=\XWFOLWFS\WDAGPUXV\SSHADQDH|Kind=1|AlternatePart= 
 Variation3=Designator=R39|UniqueId=\XWFOLWFS\WDAGPUXV\UPOLFTID|Kind=1|AlternatePart= 
@@ -344,8 +346,9 @@ Variation4=Designator=R13|UniqueId=\XWFOLWFS\CRRPQHOI\OSAJKHXB|Kind=1|AlternateP
 Variation5=Designator=R36|UniqueId=\XWFOLWFS\WDAGPUXV\SVXUCVSQ|Kind=1|AlternatePart= 
 Variation6=Designator=R32|UniqueId=\XWFOLWFS\OKYBHWKJ\XPJZMTFQ|Kind=1|AlternatePart= 
 Variation7=Designator=R35|UniqueId=\XWFOLWFS\WDAGPUXV\WFBGKAIV|Kind=1|AlternatePart= 
-Variation8=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\LMBRIAGB|Kind=1|AlternatePart= 
-Variation9=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=1|AlternatePart= 
+Variation8=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=1|AlternatePart= 
+Variation9=Designator=R46|UniqueId=\XWFOLWFS\CRRPQHOI\KXAKPRDT|Kind=1|AlternatePart= 
+Variation10=Designator=D5|UniqueId=\XWFOLWFS\CRRPQHOI\KIEGRYHD|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter3_1]
@@ -373,9 +376,10 @@ UniqueID=A7E14AEE-B042-4BB6-BA65-588D78B5A141
 Description=Variant of Smartfin TSoM
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
-Variation1=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\LMBRIAGB|Kind=1|AlternatePart= 
-Variation2=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=1|AlternatePart= 
+VariationCount=3
+Variation1=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=1|AlternatePart= 
+Variation2=Designator=R46|UniqueId=\XWFOLWFS\CRRPQHOI\KXAKPRDT|Kind=1|AlternatePart= 
+Variation3=Designator=D5|UniqueId=\XWFOLWFS\CRRPQHOI\KIEGRYHD|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
