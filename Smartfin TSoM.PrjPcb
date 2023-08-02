@@ -46,7 +46,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Smartfin Main PCBA - LTE
 
 [Preferences]
 PrefsVaultGUID=
@@ -346,54 +345,8 @@ Variation5=Designator=R36|UniqueId=\XWFOLWFS\WDAGPUXV\SVXUCVSQ|Kind=1|AlternateP
 Variation6=Designator=R32|UniqueId=\XWFOLWFS\OKYBHWKJ\XPJZMTFQ|Kind=1|AlternatePart= 
 Variation7=Designator=R35|UniqueId=\XWFOLWFS\WDAGPUXV\WFBGKAIV|Kind=1|AlternatePart= 
 Variation8=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\LMBRIAGB|Kind=1|AlternatePart= 
-Variation9=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=2|AlternatePart=ARM-JTAG-SWD|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=University of California, San Diego|AltLibLink_SymbolReference=ARM-JTAG-SWD|AltLibLink_DesignItemID=CMP-046-000000-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of California, San Diego|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=A981C50F-E2D0-4DEE-9FE5-BBB87A011D4C|AltLibLink_ItemGUID=5051B381-0D9A-417C-9F5C-E62A279F2BC0|AltLibLink_RevisionGUID=E00893C1-D852-4C5D-9310-9E42E7482131|AltLibLink_Footprint=ARM-JTAG-10-SWD-IDC|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Availability|VariantValue=In Stock
-ParamDesignator1=J3
-ParamVariation2=ParameterName=Check_prices|VariantValue=https://www.snapeda.com/parts/ARM-JTAG-SWD/Olimex+LTD/view-part/?ref=eda
-ParamDesignator2=J3
-ParamVariation3=ParameterName=Comment|VariantValue=ARM-JTAG-SWD
-ParamDesignator3=J3
-ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator4=J3
-ParamVariation5=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator5=J3
-ParamVariation6=ParameterName=Description|VariantValue=DEBUG ADAPTER FOR ARM-USB-TINY-H
-ParamDesignator6=J3
-ParamVariation7=ParameterName=Design Item ID|VariantValue=ARM-JTAG-SWD
-ParamDesignator7=J3
-ParamVariation8=ParameterName=Footprint|VariantValue=ARM-JTAG-10-SWD-IDC
-ParamDesignator8=J3
-ParamVariation9=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator9=J3
-ParamVariation10=ParameterName=Library Reference|VariantValue=CMP-046-000000-1
-ParamDesignator10=J3
-ParamVariation11=ParameterName=MF|VariantValue=Olimex LTD
-ParamDesignator11=J3
-ParamVariation12=ParameterName=MP|VariantValue=ARM-JTAG-SWD
-ParamDesignator12=J3
-ParamVariation13=ParameterName=Package|VariantValue=None
-ParamDesignator13=J3
-ParamVariation14=ParameterName=PCB3D|VariantValue= 
-ParamDesignator14=J3
-ParamVariation15=ParameterName=Pin Count|VariantValue=10
-ParamDesignator15=J3
-ParamVariation16=ParameterName=Pin Info|VariantValue= 
-ParamDesignator16=J3
-ParamVariation17=ParameterName=Price|VariantValue=None
-ParamDesignator17=J3
-ParamVariation18=ParameterName=Purchase-URL|VariantValue=https://pricing.snapeda.com/search/part/ARM-JTAG-SWD/?ref=eda
-ParamDesignator18=J3
-ParamVariation19=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator19=J3
-ParamVariation20=ParameterName=Simulation|VariantValue= 
-ParamDesignator20=J3
-ParamVariation21=ParameterName=SnapEDA_Link|VariantValue=https://www.snapeda.com/parts/ARM-JTAG-SWD/Olimex+LTD/view-part/?ref=snap
-ParamDesignator21=J3
-ParamVariation22=ParameterName=Source|VariantValue=ARM-JTAG-SWD.SchLib
-ParamDesignator22=J3
-ParamVariation23=ParameterName=Value|VariantValue=*
-ParamDesignator23=J3
-ParamVariationCount=23
+Variation9=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Parameter3_1]
 Name=ASY_BOM_FILE_NAME
@@ -420,8 +373,9 @@ UniqueID=A7E14AEE-B042-4BB6-BA65-588D78B5A141
 Description=Variant of Smartfin TSoM
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
+VariationCount=2
 Variation1=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\LMBRIAGB|Kind=1|AlternatePart= 
+Variation2=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\PVUHIZTD|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
