@@ -312,6 +312,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document16]
+DocumentPath=TSoMPCB.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document17]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=C246BEA5-136F-4B9E-98D9-E8383F1DFA4E
 Description=Smartfin Main PCBA - 2G/3G
@@ -460,178 +494,218 @@ DocumentPath=Project Outputs for Smartfin TSoM\odb\steps\pcb\layers\top_solder\f
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_90_offset-499.999x0\features
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_90_offset-423.799x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_180_offset-499.999x0\features
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_90_offset-499.999x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_270_offset-499.999x0\features
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_180_offset-423.799x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_offset-499.999x0\features
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_180_offset-426.72x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_90_offset-499.999x0\features
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_180_offset-499.999x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_180_offset-499.999x0\features
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_270_offset-423.799x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_270_offset-499.999x0\features
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_270_offset-499.999x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_offset-499.999x0\features
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_offset-423.799x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\matrix\matrix
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2023.00078x1270_offset-499.999x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_90_offset-423.799x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.EXTREP
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_90_offset-499.999x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GBL
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_180_offset-423.799x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GBO
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_180_offset-426.72x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GBP
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_180_offset-499.999x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GBS
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_270_offset-423.799x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GM
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_270_offset-499.999x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GTL
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_offset-423.799x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GTO
+DocumentPath=Project Outputs for Smartfin TSoM\odb\symbols\uds_rect2226.20078x1473.2_offset-499.999x0\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GTP
+DocumentPath=Project Outputs for Smartfin TSoM\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GTS
+DocumentPath=Project Outputs for Smartfin TSoM\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.REP
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.RUL
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.tgz
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.xls
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1.zip
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GM
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Legend_Bot.gbr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Legend_Top.gbr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1_NPTH_Drill.gbr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Paste_Bot.gbr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Paste_Top.gbr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Profile.gbr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.tgz
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1_PTH_Drill.gbr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.xls
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1.zip
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Soldermask_Top.gbr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\steps\pcb\profile
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.EXTREP
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP1
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP2
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.REP
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.RUL
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for Smartfin TSoM\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument59]
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Smartfin TSoM\PCB1_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Smartfin TSoM\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.REP
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Smartfin TSoM\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
 DocumentPath=Project Outputs for Smartfin TSoM\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
@@ -2323,232 +2397,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name Only
-ComponentLibraryIdentifier0=Syncroness Vault
-ComponentDesignItemID0=CMP-06229-A.6
-ComponentSymbolReference0=BarePCB
-ComponentUpdate0=0
+ComponentLibraryIdentifier0=University of California, San Diego
+ComponentDesignItemID0=CMP-006-000001-9
+ComponentSymbolReference0=New symbol 1
+ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name Only
-ComponentLibraryIdentifier1=Syncroness Vault
-ComponentDesignItemID1=CMP-23775-A.4
-ComponentSymbolReference1=93600A156
-ComponentUpdate1=0
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name Only
-ComponentLibraryIdentifier2=Syncroness Vault
-ComponentDesignItemID2=CMP-23885-A.4
-ComponentSymbolReference2=93600A161
-ComponentUpdate2=0
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name Only
-ComponentLibraryIdentifier3=University of California, San Diego
-ComponentDesignItemID3=CMP-00002-5
-ComponentSymbolReference3=New symbol 1
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name Only
-ComponentLibraryIdentifier4=University of California, San Diego
-ComponentDesignItemID4=CMP-002-000006-2
-ComponentSymbolReference4=ICM-20948
-ComponentUpdate4=0
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name Only
-ComponentLibraryIdentifier5=University of California, San Diego
-ComponentDesignItemID5=CMP-002-000011-3
-ComponentSymbolReference5=LP5907MFX-1.8_NOPB-Symbol-1
-ComponentUpdate5=0
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name Only
-ComponentLibraryIdentifier6=University of California, San Diego
-ComponentDesignItemID6=CMP-002-000012-2
-ComponentSymbolReference6=LMC7215IM5X/NOPB
-ComponentUpdate6=0
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name Only
-ComponentLibraryIdentifier7=University of California, San Diego
-ComponentDesignItemID7=CMP-002-000012-5
-ComponentSymbolReference7=LMC7215IM5X/NOPB
-ComponentUpdate7=0
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name Only
-ComponentLibraryIdentifier8=University of California, San Diego
-ComponentDesignItemID8=CMP-002-000013-3
-ComponentSymbolReference8=FSUSB42UMX-Symbol-1
-ComponentUpdate8=0
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name Only
-ComponentLibraryIdentifier9=University of California, San Diego
-ComponentDesignItemID9=CMP-002-000016-1
-ComponentSymbolReference9=RC0402JR-07200KL
-ComponentUpdate9=0
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name Only
-ComponentLibraryIdentifier10=University of California, San Diego
-ComponentDesignItemID10=CMP-002-000018-1
-ComponentSymbolReference10=CRCW04020000Z0ED
-ComponentUpdate10=0
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name Only
-ComponentLibraryIdentifier11=University of California, San Diego
-ComponentDesignItemID11=CMP-002-000020-1
-ComponentSymbolReference11=CRCW0402120RJNED
-ComponentUpdate11=0
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name Only
-ComponentLibraryIdentifier12=University of California, San Diego
-ComponentDesignItemID12=CMP-002-000021-1
-ComponentSymbolReference12=CRCW0402300RFKED
-ComponentUpdate12=0
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name Only
-ComponentLibraryIdentifier13=University of California, San Diego
-ComponentDesignItemID13=CMP-002-000022-1
-ComponentSymbolReference13=CRCW0402280RFKED
-ComponentUpdate13=0
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name Only
-ComponentLibraryIdentifier14=University of California, San Diego
-ComponentDesignItemID14=CMP-002-000023-1
-ComponentSymbolReference14=RC0402FR-07220RL
-ComponentUpdate14=0
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name Only
-ComponentLibraryIdentifier15=University of California, San Diego
-ComponentDesignItemID15=CMP-002-000024-1
-ComponentSymbolReference15=ERA2ARB103X
-ComponentUpdate15=0
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name Only
-ComponentLibraryIdentifier16=University of California, San Diego
-ComponentDesignItemID16=CMP-002-000027-4
-ComponentSymbolReference16=BSS138
-ComponentUpdate16=0
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name Only
-ComponentLibraryIdentifier17=University of California, San Diego
-ComponentDesignItemID17=CMP-002-000029-1
-ComponentSymbolReference17=GRM188R61A226ME15D
-ComponentUpdate17=0
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name Only
-ComponentLibraryIdentifier18=University of California, San Diego
-ComponentDesignItemID18=CMP-002-000030-1
-ComponentSymbolReference18=CERAMIC-1UF-10V-10-X5R(0402)
-ComponentUpdate18=0
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name Only
-ComponentLibraryIdentifier19=University of California, San Diego
-ComponentDesignItemID19=CMP-002-000032-5
-ComponentSymbolReference19=TS5A4595DCKR-Symbol-1
-ComponentUpdate19=0
-ComponentIsDeviceSheet19=0
-ComponentLibIdentifierKind20=Library Name Only
-ComponentLibraryIdentifier20=University of California, San Diego
-ComponentDesignItemID20=CMP-002-000033-2
-ComponentSymbolReference20=MLX90248ELD-EBA-000-RE-Symbol-1
-ComponentUpdate20=0
-ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Library Name Only
-ComponentLibraryIdentifier21=University of California, San Diego
-ComponentDesignItemID21=CMP-002-000035-2
-ComponentSymbolReference21=MF-FSML125_8-2-Symbol-1
-ComponentUpdate21=0
-ComponentIsDeviceSheet21=0
-ComponentLibIdentifierKind22=Library Name Only
-ComponentLibraryIdentifier22=University of California, San Diego
-ComponentDesignItemID22=CMP-002-000039-1
-ComponentSymbolReference22=RC0402JR-070RL
-ComponentUpdate22=0
-ComponentIsDeviceSheet22=0
-ComponentLibIdentifierKind23=Library Name Only
-ComponentLibraryIdentifier23=University of California, San Diego
-ComponentDesignItemID23=CMP-002-000044-1
-ComponentSymbolReference23=Temp Sensor-Symbol-1
-ComponentUpdate23=0
-ComponentIsDeviceSheet23=0
-ComponentLibIdentifierKind24=Library Name Only
-ComponentLibraryIdentifier24=University of California, San Diego
-ComponentDesignItemID24=CMP-002-000045-1
-ComponentSymbolReference24=New symbol 1
-ComponentUpdate24=0
-ComponentIsDeviceSheet24=0
-ComponentLibIdentifierKind25=Library Name Only
-ComponentLibraryIdentifier25=University of California, San Diego
-ComponentDesignItemID25=CMP-002-000046-1
-ComponentSymbolReference25=New symbol 1
-ComponentUpdate25=0
-ComponentIsDeviceSheet25=0
-ComponentLibIdentifierKind26=Library Name Only
-ComponentLibraryIdentifier26=University of California, San Diego
-ComponentDesignItemID26=CMP-002-000049-1
-ComponentSymbolReference26=New symbol 1
-ComponentUpdate26=0
-ComponentIsDeviceSheet26=0
-ComponentLibIdentifierKind27=Library Name Only
-ComponentLibraryIdentifier27=University of California, San Diego
-ComponentDesignItemID27=CMP-004-000000-4
-ComponentSymbolReference27=TPD1E10B06DPYT
-ComponentUpdate27=0
-ComponentIsDeviceSheet27=0
-ComponentLibIdentifierKind28=Library Name Only
-ComponentLibraryIdentifier28=University of California, San Diego
-ComponentDesignItemID28=CMP-004-000003-1
-ComponentSymbolReference28=LTST-C193KRKT-5A
-ComponentUpdate28=0
-ComponentIsDeviceSheet28=0
-ComponentLibIdentifierKind29=Library Name Only
-ComponentLibraryIdentifier29=University of California, San Diego
-ComponentDesignItemID29=CMP-004-000006-2
-ComponentSymbolReference29=New symbol 1
-ComponentUpdate29=0
-ComponentIsDeviceSheet29=0
-ComponentLibIdentifierKind30=Library Name Only
-ComponentLibraryIdentifier30=University of California, San Diego
-ComponentDesignItemID30=CMP-004-000009-3
-ComponentSymbolReference30=TPD1E1B04DPYR
-ComponentUpdate30=0
-ComponentIsDeviceSheet30=0
-ComponentLibIdentifierKind31=Library Name Only
-ComponentLibraryIdentifier31=University of California, San Diego
-ComponentDesignItemID31=CMP-004-000013-3
-ComponentSymbolReference31=B5817WS-Symbol-1
-ComponentUpdate31=0
-ComponentIsDeviceSheet31=0
-ComponentLibIdentifierKind32=Library Name Only
-ComponentLibraryIdentifier32=University of California, San Diego
-ComponentDesignItemID32=CMP-004-123445-2
-ComponentSymbolReference32=1d6ec82d83fb6aee721767c19dac4b9
-ComponentUpdate32=0
-ComponentIsDeviceSheet32=0
-ComponentLibIdentifierKind33=Library Name Only
-ComponentLibraryIdentifier33=University of California, San Diego
-ComponentDesignItemID33=CMP-006-000000-2
-ComponentSymbolReference33=New symbol 1
-ComponentUpdate33=0
-ComponentIsDeviceSheet33=0
-ComponentLibIdentifierKind34=Library Name Only
-ComponentLibraryIdentifier34=University of California, San Diego
-ComponentDesignItemID34=CMP-006-000001-3
-ComponentSymbolReference34=New symbol 1
-ComponentUpdate34=0
-ComponentIsDeviceSheet34=0
-ComponentLibIdentifierKind35=Library Name Only
-ComponentLibraryIdentifier35=University of California, San Diego
-ComponentDesignItemID35=CMP-010-000000-2
-ComponentSymbolReference35=PCA9306DQER
-ComponentUpdate35=0
-ComponentIsDeviceSheet35=0
-ComponentLibIdentifierKind36=Library Name Only
-ComponentLibraryIdentifier36=University of California, San Diego
-ComponentDesignItemID36=CMP-046-000000-1
-ComponentSymbolReference36=ARM-JTAG-SWD
-ComponentUpdate36=0
-ComponentIsDeviceSheet36=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2564,158 +2422,47 @@ RemoveModels=1
 UpdateCurrentModels=1
 ParameterName0=Availability
 ParameterUpdate0=1
-ParameterName1=Check_prices
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Component Type
 ParameterUpdate3=1
-ParameterName4=Component Type
+ParameterName4=ComponentLink1Description
 ParameterUpdate4=1
-ParameterName5=ComponentLink1Description
+ParameterName5=ComponentLink1URL
 ParameterUpdate5=1
-ParameterName6=ComponentLink1URL
+ParameterName6=Description
 ParameterUpdate6=1
-ParameterName7=Description
+ParameterName7=Design Item ID
 ParameterUpdate7=1
-ParameterName8=Design Item ID
+ParameterName8=DeviceName
 ParameterUpdate8=1
-ParameterName9=DeviceName
+ParameterName9=DeviceSetName
 ParameterUpdate9=1
-ParameterName10=DeviceSetName
+ParameterName10=GateName_1
 ParameterUpdate10=1
-ParameterName11=Diameter
+ParameterName11=Library Reference
 ParameterUpdate11=1
-ParameterName12=Digi-Key_Part_Number
+ParameterName12=LibraryName
 ParameterUpdate12=1
-ParameterName13=GateName_1
+ParameterName13=MF
 ParameterUpdate13=1
-ParameterName14=Height
+ParameterName14=Package
 ParameterUpdate14=1
-ParameterName15=Length
+ParameterName15=Pin Count
 ParameterUpdate15=1
-ParameterName16=Library Reference
+ParameterName16=Price
 ParameterUpdate16=1
-ParameterName17=LibraryName
+ParameterName17=Source
 ParameterUpdate17=1
-ParameterName18=Manufacturer
+ParameterName18=SymbolName_1
 ParameterUpdate18=1
-ParameterName19=Manufacturer Part Number
-ParameterUpdate19=1
-ParameterName20=MANUFACTURER_NAME
-ParameterUpdate20=1
-ParameterName21=MANUFACTURER_PART_NUMBER
-ParameterUpdate21=1
-ParameterName22=MF
-ParameterUpdate22=1
-ParameterName23=MOUSER_PART_NUMBER
-ParameterUpdate23=1
-ParameterName24=MOUSER_PRICE-STOCK
-ParameterUpdate24=1
-ParameterName25=Mouser-Purchase-URL
-ParameterUpdate25=1
-ParameterName26=MP
-ParameterUpdate26=1
-ParameterName27=Package
-ParameterUpdate27=1
-ParameterName28=Parameter 1
-ParameterUpdate28=1
-ParameterName29=Pin Count
-ParameterUpdate29=1
-ParameterName30=Price
-ParameterUpdate30=1
-ParameterName31=Purchase-URL
-ParameterUpdate31=1
-ParameterName32=Reach SVHC Compliant
-ParameterUpdate32=1
-ParameterName33=RoHS Compliant
-ParameterUpdate33=1
-ParameterName34=SnapEDA_Link
-ParameterUpdate34=1
-ParameterName35=Source
-ParameterUpdate35=1
-ParameterName36=Supplier
-ParameterUpdate36=1
-ParameterName37=Supplier 1
-ParameterUpdate37=1
-ParameterName38=Supplier Part Number
-ParameterUpdate38=1
-ParameterName39=Supplier Part Number 1
-ParameterUpdate39=1
-ParameterName40=SymbolName_1
-ParameterUpdate40=1
-ParameterName41=Texas_Instruments-Purchase-URL
-ParameterUpdate41=1
-ParameterName42=Value
-ParameterUpdate42=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=ARM-JTAG-10-SWD-IDC
+ModelName0=New footprint 1
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=BSS138-Footprint-1
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=C0402
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=CAF-50P85X165-2N
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=CAPC1608X100N
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=DIO_TPD1E05U06DPYR
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=FP-APT1608MGC-MFG
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=IC_FSUSB42UMX
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=LEDC1608X45N
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=New footprint 1
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=QFN40P300X300X105-24N
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=RES_ERA2ARB103X
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=RESC1005X40
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=RESC1005X40N
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=SODFL160X75-2N
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=SODFL250X135-2N
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=SODFL250X75-2N
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=SON35P140X100X40-8N
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=SON50P150X40_HS-7N
-ModelUpdate18=1
-ModelType19=PCBLIB
-ModelName19=SOT65P210X110-5N
-ModelUpdate19=1
-ModelType20=PCBLIB
-ModelName20=SOT95P280X145-5N
-ModelUpdate20=1
-ModelType21=PCBLIB
-ModelName21=Temp Sensor-Footprint-1
-ModelUpdate21=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
