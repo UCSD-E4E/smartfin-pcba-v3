@@ -1,0 +1,70 @@
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{fullpage}
+\title{Smartfin PCBA v3 Rev XA0 Acceptance Report}
+\author{Nathan Hui\\Staff Engineer\\UC San Diego Engineers for Exploration\\nthui@ucsd.edu
+\and
+Rana Singh\\Student Researcher\\UC San Diego Engineers for Exploration\\ras010@ucsd.edu}
+\begin{document}
+\maketitle
+\section{Hardware Description}
+Base hardware files: https://github.com/UCSD-E4E/smartfin-pcba-v3/tree/bbe7e309880a69a5036ec42c3f2ec09f7dfc0d23
+
+\subsection{Hardware Modifications}
+\subsubsection{U7.2 Disconnect}
+Due to incorrect footprints for U7, there is a short across 3V3 and GND.  
+\section{Test Overview}
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{@{}lllp{0.5\textwidth}@{}}
+        \toprule
+        Pin   & Direction & Net Name             & Test                                                                                                                                                                \\ \midrule
+        41    & SENSE     & VBUS                 & Check connectivity with TP6, J2.4, TRACKER-TSOM.51                                                                                                                  \\
+        40    & BI        & STAT\_LED            & Apply 3v3, check STAT\_LED driven high, drive low, check D2 lit                                                                                                     \\
+        39    & SENSE     & WATER                & Apply 3v3, drive WATER\_EN, check sensor behavior                                                                                                                   \\
+        38    &
+        SENSE &
+        WKP   &
+        Apply LO to WATER and LO to VBUS, check driven LO, apply LO to WATER and   HI to VBUS, check driven HI, apply HI to WATER and HI to VBUS, check driven   HI, apply HI to WATER and LO to VBUS, check driven HI \\
+        33    &
+        SENSE &
+        RESET &
+        Check connectivity with TP12, J7.RESET, apply 3v3, check   driven HI, apply magnetic field, check driven LO                                                                                                    \\
+        32    & SENSE     & MODE                 & Check connectivity with TP11, apply 3v3, check driven HI                                                                                                            \\
+        30    & BI        & RED\_PIO             & Apply 3v3, check driven HI, drive LO, check D1 is red                                                                                                               \\
+        29    & BI        & GREEN\_PIO           & Apply 3v3, check driven HI, drive LO, check D1 is green                                                                                                             \\
+        28    & BI        & BLUE\_PIO            & Apply 3v3, check driven HI, drive LO, check D1 is blue                                                                                                              \\
+        24    & SENSE     & SWO                  & Check connectivity with J7.SWO                                                                                                                                      \\
+        23    & SENSE     & SWDCLK               & Check connectivity with J7.SWDCLK                                                                                                                                   \\
+        22    & SENSE     & SWDIO                & Check connectivity with J7.SWDIO                                                                                                                                    \\
+        84    & SENSE     & GPS\_TX              & Check connectivity with TP10                                                                                                                                        \\
+        83    & SENSE     & GPS\_RX              & Check connectivity with TP9                                                                                                                                         \\
+        72    & SENSE     & COMP\_MINUS          & Apply 3v3, drive WATER\_EN, check sensor behavior                                                                                                                   \\
+        71    & BI        & LED                  & Apply 3v3, check driven HI, drive LO, check D62 lit                                                                                                                 \\
+        69    & BUS       & DATA\_P              & Apply VBUS, check connectivity with J2.2                                                                                                                            \\
+        68    & BUS       & DATA\_N              & Apply VBUS, check connectivity with J2.3                                                                                                                            \\
+        58    & DRIVE     & WATER\_MFG\_TEST\_EN & Apply 3v3, drive WATER\_EN, check sensor behavior                                                                                                                   \\
+        57    & DRIVE     & WATER\_EN            & Apply 3v3, drive WATER\_EN, check sensor behavior                                                                                                                   \\
+        56    & BUS       & SCL                  & Apply 3v3, check temperature and ICM                                                                                                                                \\
+        55    & BUS       & SDA                  & Apply 3v3, check temperature and ICM                                                                                                                                \\
+        53    & SENSE     & LIPO                 & Check connectivity with P1, check no short to GND                                                                                                                   \\
+        50    & SENSE     & STAT\_LED            & Apply 3v3, check driven HI                                                                                                                                          \\
+        45    & DRIVE     & 3v3                  &                                                                                                                                                                     \\
+        TP14  & SENSE     & 1V8\_VDDIO           & Apply 3v3, check 1v8                                                                                                                                                \\ \bottomrule                                         \\ \bottomrule
+    \end{tabular}
+    \caption{Test Items}
+    \label{tab:test_table}
+\end{table}
+\section{Test Results}
+\subsection{VBUS}
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{@{}lll@{}}
+        \toprule
+        Cross-check Pin & Cross-check Signal & Resistance \\ \midrule
+        U1.1            & GND                & 0.18       \\ \bottomrule
+    \end{tabular}
+    \caption{U1.45 VCC Resistance Check}
+    \label{tab:u1_45_resistance}
+\end{table}
+\end{document}
