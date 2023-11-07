@@ -1,6 +1,8 @@
 \documentclass{article}
 \usepackage{booktabs}
 \usepackage{fullpage}
+\usepackage{graphicx}
+\usepackage{hyperref}
 \title{Smartfin PCBA v3 Rev XA0 Acceptance Report}
 \author{Nathan Hui\\Staff Engineer\\UC San Diego Engineers for Exploration\\nthui@ucsd.edu
 \and
@@ -12,7 +14,13 @@ Base hardware files: https://github.com/UCSD-E4E/smartfin-pcba-v3/tree/bbe7e3098
 
 \subsection{Hardware Modifications}
 \subsubsection{U7.2 Disconnect}
-Due to incorrect footprints for U7, there is a short across 3V3 and GND.  
+Due to incorrect footprints for U7, there is a short across 3V3 and GND.  Cut 3v3 in front of U7.2 as shown by the green line in \autoref{fig:hw_mod_u7_2}.
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.6\textwidth]{U1_2 Disconnect.png}
+    \caption{U7.2 Disconnect cut shown by green line}
+    \label{fig:hw_mod_u7_2}
+\end{figure}
 \section{Test Overview}
 \begin{table}[ht]
     \centering
